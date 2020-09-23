@@ -1,0 +1,16 @@
+C:\Users\filip.creydt\Documents\Programering 2\Övningar\XML-övning\XML-övning\obj\Debug\net5.0\XML-övning.csprojAssemblyReference.cache
+C:\Users\filip.creydt\Documents\Programering 2\Övningar\XML-övning\XML-övning\obj\Debug\net5.0\XML-övning.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\filip.creydt\Documents\Programering 2\Övningar\XML-övning\XML-övning\obj\Debug\net5.0\XML-övning.AssemblyInfoInputs.cache
+C:\Users\filip.creydt\Documents\Programering 2\Övningar\XML-övning\XML-övning\obj\Debug\net5.0\XML-övning.AssemblyInfo.cs
+C:\Users\filip.creydt\Documents\Programering 2\Övningar\XML-övning\XML-övning\obj\Debug\net5.0\XML-övning.csproj.CoreCompileInputs.cache
+C:\Users\filip.creydt\Documents\Programering 2\Övningar\XML-övning\XML-övning\bin\Debug\net5.0\XML-övning.exe
+C:\Users\filip.creydt\Documents\Programering 2\Övningar\XML-övning\XML-övning\bin\Debug\net5.0\XML-övning.deps.json
+C:\Users\filip.creydt\Documents\Programering 2\Övningar\XML-övning\XML-övning\bin\Debug\net5.0\XML-övning.runtimeconfig.json
+C:\Users\filip.creydt\Documents\Programering 2\Övningar\XML-övning\XML-övning\bin\Debug\net5.0\XML-övning.runtimeconfig.dev.json
+C:\Users\filip.creydt\Documents\Programering 2\Övningar\XML-övning\XML-övning\bin\Debug\net5.0\XML-övning.dll
+C:\Users\filip.creydt\Documents\Programering 2\Övningar\XML-övning\XML-övning\bin\Debug\net5.0\ref\XML-övning.dll
+C:\Users\filip.creydt\Documents\Programering 2\Övningar\XML-övning\XML-övning\bin\Debug\net5.0\XML-övning.pdb
+C:\Users\filip.creydt\Documents\Programering 2\Övningar\XML-övning\XML-övning\obj\Debug\net5.0\XML-övning.dll
+C:\Users\filip.creydt\Documents\Programering 2\Övningar\XML-övning\XML-övning\obj\Debug\net5.0\ref\XML-övning.dll
+C:\Users\filip.creydt\Documents\Programering 2\Övningar\XML-övning\XML-övning\obj\Debug\net5.0\XML-övning.pdb
+C:\Users\filip.creydt\Documents\Programering 2\Övningar\XML-övning\XML-övning\obj\Debug\net5.0\XML-övning.genruntimeconfig.cache
